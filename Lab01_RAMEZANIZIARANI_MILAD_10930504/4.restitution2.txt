@@ -1,0 +1,259 @@
+
+Status Report Tree
+   Project Name: restitution2.pmr
+   Problems and Suggestions (1)
+      Project Problems (1)
+         Warning The largest point residual in your project (Point37 - 8.04) is greater than 5.00. 
+            Suggestion: In normal projects, strive to get all point residuals under 5.00 pixels. If you have just a few high residual points, study them on each photo to ensure they are marked and referenced correctly. If many of your points have high residuals then make sure the camera stations are solving correctly and that your are using the best camera parameters possible.
+      Problems related to most recent processing (0)
+   Information from most recent processing
+      Last Processing Attempt: Thu Dec 28 10:59:05 2023
+      Version: PhotoModeler 2023.3.0.238 (64-bit)
+      Status: successful
+      Processing Options
+         Orientation: on
+            All photos oriented.
+            Number of photos oriented: 7
+         Global Optimization: on
+         Calibration: off
+         Constraints: off
+      Total Error
+         Number of Processing Iterations: 3
+         Number of Processing Stages: 1
+         First Error: 8.356
+         Last Error: 5.203
+      Precisions / Standard Deviations
+         Photograph Standard Deviations
+            Photo 1: img_20231227_133638.jpg
+               Omega
+                    Value: 37.243808 deg
+                    Deviation: Omega: 0.354 deg
+               Phi
+                    Value: -42.030304 deg
+                    Deviation: Phi: 0.274 deg
+               Kappa
+                    Value: -82.153318 deg
+                    Deviation: Kappa: 0.245 deg
+               Xc
+                    Value: -1.467921 
+                    Deviation: X: 0.008 
+               Yc
+                    Value: -1.406715 
+                    Deviation: Y: 0.007 
+               Zc
+                    Value: -1.003349 
+                    Deviation: Z: 0.011 
+            Photo 2: img_20231227_133653.jpg
+               Omega
+                    Value: -0.417742 deg
+                    Deviation: Omega: 0.239 deg
+                    Correlations over  95.0%: Y:-99.1%
+               Phi
+                    Value: -0.407635 deg
+                    Deviation: Phi: 0.271 deg
+                    Correlations over  95.0%: X:99.1%
+               Kappa
+                    Value: -0.012129 deg
+                    Deviation: Kappa: 0.098 deg
+               Xc
+                    Value: -0.015678 
+                    Deviation: X: 0.010 
+                    Correlations over  95.0%: Phi:99.1%
+               Yc
+                    Value: 0.018044 
+                    Deviation: Y: 0.009 
+                    Correlations over  95.0%: Omega:-99.1%
+               Zc
+                    Value: -0.000931 
+                    Deviation: Z: 0.004 
+            Photo 3: img_20231227_133712.jpg
+               Omega
+                    Value: -27.964473 deg
+                    Deviation: Omega: 1.003 deg
+                    Correlations over  95.0%: Kappa:97.6%
+               Phi
+                    Value: -72.904324 deg
+                    Deviation: Phi: 0.300 deg
+               Kappa
+                    Value: 151.003610 deg
+                    Deviation: Kappa: 0.977 deg
+                    Correlations over  95.0%: Omega:97.6%
+               Xc
+                    Value: -1.826555 
+                    Deviation: X: 0.006 
+               Yc
+                    Value: -0.145568 
+                    Deviation: Y: 0.009 
+               Zc
+                    Value: -1.623702 
+                    Deviation: Z: 0.009 
+            Photo 4: img_20231227_133728.jpg
+               Omega
+                    Value: -45.457787 deg
+                    Deviation: Omega: 0.399 deg
+               Phi
+                    Value: -19.969346 deg
+                    Deviation: Phi: 0.404 deg
+                    Correlations over  95.0%: X:97.8%
+               Kappa
+                    Value: 56.955628 deg
+                    Deviation: Kappa: 0.265 deg
+               Xc
+                    Value: -0.809128 
+                    Deviation: X: 0.013 
+                    Correlations over  95.0%: Phi:97.8%
+               Yc
+                    Value: 1.063104 
+                    Deviation: Y: 0.013 
+               Zc
+                    Value: -0.673107 
+                    Deviation: Z: 0.008 
+            Photo 6: img_20231227_133756.jpg
+               Omega
+                    Value: 30.824534 deg
+                    Deviation: Omega: 0.583 deg
+               Phi
+                    Value: -60.771163 deg
+                    Deviation: Phi: 0.336 deg
+               Kappa
+                    Value: -122.136685 deg
+                    Deviation: Kappa: 0.533 deg
+               Xc
+                    Value: -1.940542 
+                    Deviation: X: 0.008 
+               Yc
+                    Value: -0.861564 
+                    Deviation: Y: 0.010 
+               Zc
+                    Value: -1.280650 
+                    Deviation: Z: 0.011 
+            Photo 7: img_20231227_133809.jpg
+               Omega
+                    Value: 28.942428 deg
+                    Deviation: Omega: 0.463 deg
+                    Correlations over  95.0%: Y:-97.6%
+               Phi
+                    Value: -14.431237 deg
+                    Deviation: Phi: 0.454 deg
+                    Correlations over  95.0%: X:98.7%
+               Kappa
+                    Value: -43.740988 deg
+                    Deviation: Kappa: 0.181 deg
+               Xc
+                    Value: -0.503619 
+                    Deviation: X: 0.013 
+                    Correlations over  95.0%: Phi:98.7%
+               Yc
+                    Value: -0.963732 
+                    Deviation: Y: 0.014 
+                    Correlations over  95.0%: Omega:-97.6%
+               Zc
+                    Value: -0.496174 
+                    Deviation: Z: 0.007 
+            Photo 8: img_20231227_133819.jpg
+               Omega
+                    Value: -18.883562 deg
+                    Deviation: Omega: 0.344 deg
+                    Correlations over  95.0%: Y:-95.5%
+               Phi
+                    Value: -0.737454 deg
+                    Deviation: Phi: 0.291 deg
+                    Correlations over  95.0%: X:98.0%
+               Kappa
+                    Value: 22.712903 deg
+                    Deviation: Kappa: 0.187 deg
+               Xc
+                    Value: -0.142380 
+                    Deviation: X: 0.009 
+                    Correlations over  95.0%: Phi:98.0%
+               Yc
+                    Value: 0.441094 
+                    Deviation: Y: 0.010 
+                    Correlations over  95.0%: Omega:-95.5%
+               Zc
+                    Value: -0.418532 
+                    Deviation: Z: 0.006 
+   Quality
+      Photographs
+         Total Number: 13
+            Bad Photos: 6
+            Weak Photos: 0
+            OK Photos: 7
+         Number Oriented: 7
+         Number with inverse camera flags set: 0
+      Cameras
+         Camera1: 2:SM-A515F [4.60]
+            Calibration: yes (Single Sheet Calibration)
+            Number of photos using camera: 13
+            Total Photo Point Coverage: 79%
+      Photo Coverage
+         Referenced points outside of the camera's calibrated coverage region:
+            Photo1 points outside region:none
+            Photo2 points outside region:none
+            Photo3 points outside region:#12
+            Photo4 points outside region:none
+            Photo5 points outside region:none
+            Photo6 points outside region:none
+            Photo7 points outside region:none
+            Photo8 points outside region:none
+            Photo9 points outside region:none
+            Photo10 points outside region:none
+            Photo11 points outside region:none
+            Photo12 points outside region:none
+            Photo13 points outside region:none
+      Point Marking Residuals
+         Overall RMS: 4.133 pixels
+         Maximum: 8.035 pixels
+            Point 37 on Photo 3
+         Minimum: 0.444 pixels
+            Point 1 on Photo 1
+         Maximum RMS: 7.761 pixels
+            Point 37
+         Minimum RMS: 0.377 pixels
+            Point 1
+      Point Precisions
+         Overall RMS Vector Length: 0.681 mm
+         Maximum Vector Length: 1.16 mm
+            Point 7
+         Minimum Vector Length: 0.406 mm
+            Point 39
+         Maximum X: 0.584 mm
+         Maximum Y: 0.656 mm
+         Maximum Z: 0.9 mm
+         Minimum X: 0.218 mm
+         Minimum Y: 0.206 mm
+         Minimum Z: 0.215 mm
+      Point Angles
+         Maximum: 89.78 degrees
+            Point 39
+         Minimum: 40.58 degrees
+            Point 15
+         Average: 65.68 degrees
+      Check measurements
+         Check distance delta (percent)
+            Max: 0 %  (scale, Pt 43, Pt 36)
+            Min: 0 %  (scale, Pt 43, Pt 36)
+            Average: 0 %  (from 1 items)
+            Average applied to project size (0% * 281mm): 0.000mm
+         Check distance delta (absolute)
+            Max: 0 mm  (scale, Pt 43, Pt 36)
+            Min: 0 mm  (scale, Pt 43, Pt 36)
+            Average: 0 mm  (from 1 items)
+         Check distance delta (signed)
+            Max: 0 mm  (scale, Pt 43, Pt 36)
+            Min: 0 mm  (scale, Pt 43, Pt 36)
+            Average: 0 mm  (from 1 items)
+         Active and inactive checks
+            Check distance delta (percent)
+               Max: 0 %  (scale, Pt 43, Pt 36)
+               Min: 0 %  (scale, Pt 43, Pt 36)
+               Average: 0 %  (from 1 items)
+               Average applied to project size (0% * 281mm): 0.000mm
+            Check distance delta (absolute)
+               Max: 0 mm  (scale, Pt 43, Pt 36)
+               Min: 0 mm  (scale, Pt 43, Pt 36)
+               Average: 0 mm  (from 1 items)
+            Check distance delta (signed)
+               Max: 0 mm  (scale, Pt 43, Pt 36)
+               Min: 0 mm  (scale, Pt 43, Pt 36)
+               Average: 0 mm  (from 1 items)

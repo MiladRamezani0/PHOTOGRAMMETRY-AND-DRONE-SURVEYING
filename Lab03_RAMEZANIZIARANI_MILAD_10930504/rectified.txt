@@ -1,0 +1,9 @@
+Dati immagine raddrizzata:  D:\Plimi\02 - Secound Term\04 - PHOTOGRAMMETRY AND DRONE SURVEYING\Projects\Lab 03 - Photoplane\rectified.bmp
+coordinate spigolo alto sinistro:  -5.456 ; 11.349
+coordinate spigolo alto destro:  16.583 ; 11.349
+coordinate spigolo basso destro:  16.583 ; -2.204
+coordinate spigolo basso sinistro:  -5.456 ; -2.204
+dimensione immagine raddrizzata (pixel):  2204 x 1355
+dimensione immagine raddrizzata (cm):  22.039 x 13.553
+risoluzione (dpi):  254.000
+dimensione pixel (m):  0.01
